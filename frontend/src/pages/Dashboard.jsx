@@ -288,7 +288,7 @@ import {
     ResponsiveContainer,
 } from "recharts";
 
-import "../styles/Dashboard.css";
+import "../styles/dashboard.css";
 
 function Dashboard() {
     const [ticker, setTicker] = useState("");

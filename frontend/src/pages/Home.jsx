@@ -7,7 +7,7 @@ import {
     ShieldCheck,
 } from "lucide-react";
 
-import "../styles/home.css";
+import "../styles/Home.css";
 
 function Home() {
     const navigate = useNavigate();
